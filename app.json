@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "school-attendance-app-project-60",
+    "slug": "snack-61b2a682-32fb-4e32-bcea-92344738a53e",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier":"com.tetsuser.schoolAtendanceApp"
+    },
+    "android": {
+      "package":"com.tetsuser.schoolAttendanceApp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
